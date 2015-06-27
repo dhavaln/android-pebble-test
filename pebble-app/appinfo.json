@@ -1,0 +1,30 @@
+{
+  "uuid": "4ccae58f-779c-4270-b82a-cb5aa6be4cc1",
+  "shortName": "DataTest",
+  "longName": "DataTest",
+  "companyName": "JumpByte",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      },
+      {
+        "type": "font",
+        "name": "MONO_FONT_14",
+        "file": "fonts/UbuntuMono-Regular.ttf"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ]
+}
